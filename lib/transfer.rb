@@ -20,7 +20,7 @@ class Transfer
       @status = "complete"
     #elsif
       #@status = "rejected"
-      return "Transaction rejected. Please check your account balance."
+      #return "Transaction rejected. Please check your account balance."
     else
       return "Transaction rejected. Please check your account balance."
     end
